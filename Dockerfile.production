@@ -1,5 +1,5 @@
 # Dockerfile CI version
-FROM registry.semaphoreci.com/ruby:3.1
+FROM registry.semaphoreci.com/ruby:3.1.3
 
 # Default directory
 ENV INSTALL_PATH /opt/app
